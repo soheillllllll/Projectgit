@@ -21,3 +21,5 @@
 # git branch -m bugfix3 "تغییر نام برنچ"
 
 # git branch -d bugfix3        git branch -D bugfix3   "دلیت برنچ"
+
+# git merge bugfix      "باید در برنچ مستر باشیم که برنچ باگ فیسک به برنچ مستر مرچ شود"
