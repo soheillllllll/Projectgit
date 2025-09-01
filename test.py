@@ -1,1 +1,23 @@
-"rewkkkkkkkkkkq"
+# git init    "ایجاد گیت"
+
+# file .gitignore    "فایل هایی که در گیت نباشد"
+
+# git add .    git test.py    "ادد کردن به استیج"
+
+# git commit -m "commit 1"    "کامیت در ریپزیتوری"
+
+# git log   git log --oneline    "کامیت ها "
+
+# git branch    "برنچ ها "
+
+# git branch bugfix    "برنچ جدید "
+
+# git switch bugfix    "سویچ به برنچ"
+
+# git switch -c bugfix2    "ایجاد و سویچ به برنچ"
+
+# git log --all --graph   "به صورت گرافیکی"
+
+# git branch -m bugfix3 "تغییر نام برنچ"
+
+# git branch -d bugfix3        git branch -D bugfix3   "دلیت برنچ"
