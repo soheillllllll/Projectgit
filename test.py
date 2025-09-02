@@ -41,3 +41,9 @@
 # git checkout HEAD        "بازگشت به کامیتی که هد است "
 # git checkout HEAD~2      "بازگشت به کامیتی که 2 تا از هد پایین تر است "
 # git checkout HEAD file2.py      "پاک کردن تغییراات فایل 2 که هنوز کامیت نشده و ادد نشده "
+
+# git restore file1.py                 "تغییرات ورکینگ دایرکتوری ادیتور فایل 1 را پاک می کند "
+
+# git restore --staged file1.py          "فایل 1 را از استیج خارج می کند "
+
+# git restore --source 9fh2584o7 file1.py      git restore --source HEAD~2 file1.py    "فایل 1 را به ان کامیت تغییر دادن "
