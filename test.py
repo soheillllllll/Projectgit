@@ -6,6 +6,8 @@
 
 # git commit -m "commit 1"    "کامیت در ریپزیتوری"
 
+# git commit -am "commit 87"      "ادد و کامیت "
+
 # git log   git log --oneline    "کامیت ها "
 
 # git branch    "برنچ ها "
