@@ -47,3 +47,7 @@
 # git restore --staged file1.py          "فایل 1 را از استیج خارج می کند "
 
 # git restore --source 9fh2584o7 file1.py      git restore --source HEAD~2 file1.py    "فایل 1 را به ان کامیت تغییر دادن "
+
+# git reset 8e5847n80y    "حذف کردن کامیت ها تا کامیت مشخص شده فقط کامیت"
+
+# git reset --hard 8i2m45o     "حذف کردن کامیت هاو همچنین ورکینگ دایکتوری ان ها تا کامیت مشخص شده"
