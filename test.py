@@ -35,3 +35,5 @@
 # git diff commit1..commit2          "تغییرات بین دو کامیت با هش بنویس"
 
 # git diff branch1..branch2          "تغییرات بین دو برنچ با اسم بنویس"
+
+# git checkout commit7          "بازگشت به یک کامیت خاص و با هش بنویس"
