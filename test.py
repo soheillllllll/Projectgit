@@ -37,3 +37,7 @@
 # git diff branch1..branch2          "تغییرات بین دو برنچ با اسم بنویس"
 
 # git checkout commit7          "بازگشت به یک کامیت خاص و با هش بنویس"
+# git switch master          "بازگشت به کامیت اخر مستر "
+# git checkout HEAD        "بازگشت به کامیتی که هد است "
+# git checkout HEAD~2      "بازگشت به کامیتی که 2 تا از هد پایین تر است "
+# git checkout HEAD file2.py      "پاک کردن تغییراات فایل 2 که هنوز کامیت نشده و ادد نشده "
