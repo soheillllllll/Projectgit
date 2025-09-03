@@ -60,3 +60,5 @@
 # git stash apply    "برگرداندن تغییراتی که در ستش ذخیره شده بود به طوری که ستش حذف نشود "
 # git stash list                "لیست ستش ها "
 # git stash apply stash@{2}     "برگرداندن تغییراتی که در این ستش وجود دارد "
+# git stash drop stash@{2}    "پاک کردن این ستش "
+# git stash clear             "پاک کردن کل ستش ها "
