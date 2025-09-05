@@ -80,3 +80,5 @@
 # git fetch <remote>            git fetch <remote> <branch>         "برگرداندن کامیت ها یا تغییرات جدید که همکار ها داخل گیتهاب اورده اند به لوکال ریپزیتوری سیستم خود "
 # git checkout origin/master     "هد را به کامیت بالایی بردن "
 # git pull <remote:origin>  <branch:master>        git pull       "برگرداندن کامیت ها و تغییرات جدید که همکار ها داخل گیت هاب اورده اند به ورکینگ دایرکتوری واینکه پول کل و اصلی است اما فتچ بیشتر برای بررسی تداخل است"
+
+# git push --set-upstream <remote:origin> <branch:odd-numbers>    git push -u <remote:origin> <branch:odd-numbers>      git push <remote:origin> <branch:odd-numbers>        "برای پوش کردن برنچ جدیدی که هنوز در گیتهاب نیست "
