@@ -82,3 +82,7 @@
 # git pull <remote:origin>  <branch:master>        git pull       "برگرداندن کامیت ها و تغییرات جدید که همکار ها داخل گیت هاب اورده اند به ورکینگ دایرکتوری واینکه پول کل و اصلی است اما فتچ بیشتر برای بررسی تداخل است"
 
 # git push --set-upstream <remote:origin> <branch:odd-numbers>    git push -u <remote:origin> <branch:odd-numbers>      git push <remote:origin> <branch:odd-numbers>        "برای پوش کردن برنچ جدیدی که هنوز در گیتهاب نیست "
+
+# git remote add <remoename:upstream> <url>      "ایجاد رمیتوت جدید به این یو ار ال "
+
+# git rebase <branch:master>           "گیت ریبیس مانند مرچ است فقط با این تفاوت که کامیت های ریبس پشت سر هم در یک شاخه قرار می گیرند و هش ان کامیت های قیلی تغییر می کند "
